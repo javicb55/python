@@ -1,10 +1,9 @@
-
 <top>
 
-<query>
+<query id="0">
 <num> 001 </num>
 <title> Factores que inciden positivamente en la generación de riqueza en los paises </title>
-<desc>  Motivos sociales y/o políticos que hacen de un pais una sociedad más rica. Quedan excluidos aquellos artículos que centren en los recursos naturales del pais</desc>
+<desc> Motivos sociales y/o políticos que hacen de un pais una sociedad más rica. Quedan excluidos aquellos artículos que centren en los recursos naturales del pais</desc>
 <auth> Fernando Martínez</auth>
 <lang>ES</lang>
 </query>
@@ -12,7 +11,7 @@
 
 <query>
 <num> 002 </num>
-<title eliminar="eliminar"> Animales salvajes en cautividad</title>
+<title> Animales salvajes en cautividad</title>
 <desc> Artículos que traten sobre las condiciones de vida de animales salvajes que no viven en libertad: sus condiciones de vida, causas y efectos del cautiverio </desc>
 <auth> Fernando Martínez</auth>
 <lang>ES</lang>
@@ -127,6 +126,7 @@ Por ejemplo, creando cuotas  en establecimientos educativos o puestos laborales 
 <num> 018 </num>
 <title> Discursos televisados de Obama en su último año legislativo </title>
 <desc>  Articulos que traten sobre discursos dados por el ex-presidente de los EEUU, Barak Obana. Para ser relevante, deber ser un discurso televisado en el último año de su mandato</desc>
+</query>
 <query>
 <num> 019 </num>
 <title> Acuerdos internacionales para luchar contra el cambio climático </title>
@@ -140,6 +140,5 @@ Por ejemplo, creando cuotas  en establecimientos educativos o puestos laborales 
 <desc>  Ejemplos de especies animales autóctonas que se encuentre en peligro de extición por la presencia en su habitat de otras especies invasoras</desc>
 <auth> Fernando Martínez</auth>
 <lang>ES</lang>
-</query>
 </query>
 </top>
